@@ -2,4 +2,8 @@ qwe
 
 안녕하세요 
 곤니치와
-아리가토
+1. 메모장 수정
+2. git status 빨간색 글씨가 나오는지 확인
+3. git add. 장바구니 담기
+4. git commit -m"메세지명"을 통해서 히스토리 남기기
+5. git push origin main 원격 저장소에 히스토리 남기기
