@@ -26,4 +26,4 @@ qwe
 4. git commit -m"메세지명"을 통해서 히스토리 남기기
 5. git push origin main 원격 저장소에 히스토리 남기기
 git push -u origin main 이거한번하면 git push만쳐도 됌
-353565asdㅁㄴㅇㄹ
+353565asdㅁㄴㅇㄹㅁㄴㅇ
