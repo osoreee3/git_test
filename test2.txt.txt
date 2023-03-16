@@ -25,4 +25,4 @@ qwe
 3. git add. 장바구니 담기
 4. git commit -m"메세지명"을 통해서 히스토리 남기기
 5. git push origin main 원격 저장소에 히스토리 남기기
-353565
+353565asd
